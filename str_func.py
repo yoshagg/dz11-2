@@ -14,3 +14,5 @@ def megatitle(arg:str) -> str:
     ###
 
     return arg.title()
+
+#tomergetask
